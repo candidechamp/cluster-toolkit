@@ -17,7 +17,7 @@
 blueprint_name: spack-gromacs
 
 vars:
-  project_id:  ## Set GCP Project ID Here ##
+  project_id:  hpc-gromacs
   deployment_name: spack-gromacs
   region: us-central1
   zone: us-central1-c
